@@ -121,6 +121,7 @@ public class Main {
         checkOut(timsBasket);
         System.out.println(timsBasket);
 
+        System.out.println("The End.");
 
     }
 
